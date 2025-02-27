@@ -9,4 +9,4 @@ install:
 create exe:
 1. pip install pyinstaller
 2. pyinstaller --onefile main.py
-3. click dir - 'dist' -> replace to top level (main.py)
+3. click dir - 'dist' -> forward to top level (main.py)
