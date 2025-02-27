@@ -1,0 +1,4 @@
+customtkinter~=5.2.2
+aiofiles~=24.1.0
+loguru~=0.7.3
+pillow~=11.1.0
